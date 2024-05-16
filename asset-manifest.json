@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolioReact/static/css/main.9eededd3.css",
+    "main.css": "/portfolioReact/static/css/main.9679cb3e.css",
     "main.js": "/portfolioReact/static/js/main.ebb2050d.js",
     "static/media/momentum.png": "/portfolioReact/static/media/momentum.cd3307058107309029bc.png",
     "static/media/game.png": "/portfolioReact/static/media/game.d748802f7c51c424801b.png",
     "static/media/pizza.png": "/portfolioReact/static/media/pizza.b2f5ee1d02c0b82d4818.png",
     "static/media/marvel.png": "/portfolioReact/static/media/marvel.61037670fc6b98e1463c.png",
     "static/media/work1.png": "/portfolioReact/static/media/work1.3b8b4edfbf6e61db868a.png",
+    "static/media/im.jpeg": "/portfolioReact/static/media/im.e10c716489319fa84f18.jpeg",
     "static/media/calcul.png": "/portfolioReact/static/media/calcul.0babe1e5dc888b05c341.png",
-    "static/media/lion.png": "/portfolioReact/static/media/lion.95a8bab49d7a094fda0e.png",
     "index.html": "/portfolioReact/index.html",
-    "main.9eededd3.css.map": "/portfolioReact/static/css/main.9eededd3.css.map",
+    "main.9679cb3e.css.map": "/portfolioReact/static/css/main.9679cb3e.css.map",
     "main.ebb2050d.js.map": "/portfolioReact/static/js/main.ebb2050d.js.map"
   },
   "entrypoints": [
-    "static/css/main.9eededd3.css",
+    "static/css/main.9679cb3e.css",
     "static/js/main.ebb2050d.js"
   ]
 }
